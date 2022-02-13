@@ -1,0 +1,36 @@
+# AI/ML Repo - For Tackling Problems
+  - Traditional
+    - descriptive
+      - regression
+      - classificaiton
+      - time series
+    - Data Compression, Dimensionality Reduction
+      - PCA
+      - t-SNE
+    - Prescriptive
+      - recommendation
+      - ranking
+  - Deep Learning
+    - Regression
+    - Classification
+    - Time Series
+    - Object Detection
+    - Object Tracking
+    - Segmentation
+    - Mixed Models
+  - Reinforcement Learning
+  - AI
+    - Search Algorithms
+    - Rule Based Engines
+    - Constraint Scheduling
+    - Bloom Filters
+  - SSOTA (Stable State Of The Art)
+    - XGBoost
+    - EfficientNet on TPU
+    - Transformers for NLP
+  - Domains
+    - Image
+    - Tabular
+    - Text
+    - Mixed
+    - Sound
