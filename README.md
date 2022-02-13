@@ -1,4 +1,5 @@
-# AI/ML Repo - For Tackling Problems
+>> Setting standards for AI/ML problems, hence `standard_ai`.
+# Various Problems, that needs standardization
   - Traditional
     - descriptive
       - regression
